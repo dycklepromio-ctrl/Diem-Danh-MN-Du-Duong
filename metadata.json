@@ -1,0 +1,6 @@
+{
+  "name": "Điểm Danh Lớp Học",
+  "description": "Ứng dụng điểm danh học sinh từ dữ liệu Google Sheets, lưu trữ lịch sử và thống kê sĩ số thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
